@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IngenieriaCivil.Entidad.Area">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAACAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidad\Area.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IngenieriaCivil.Entidad.Citas" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAACAAAAAgAAAgAAAACAABAAQAAAAAAAA=</HashCode>
+      <FileName>Entidad\Citas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IngenieriaCivil.Entidad.Cliente" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAgAAAAAAAAAAABAAAAAAAAAAAAAAAAAEEAA=</HashCode>
+      <FileName>Entidad\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IngenieriaCivil.Entidad.ConfiEmpleadoHorarios" Collapsed="true">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAEAAAAAAAAAIAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Entidad\ConfiEmpleadoHorarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IngenieriaCivil.Entidad.Empleado" Collapsed="true">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAIQAAAAAAACAAAAAAAAAAAAAAAgAAAAAAIAA=</HashCode>
+      <FileName>Entidad\Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IngenieriaCivil.Entidad.EstadoCivil">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Entidad\EstadoCivil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IngenieriaCivil.Entidad.Horarios" Collapsed="true">
+    <Position X="8.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidad\Horarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IngenieriaCivil.Entidad.Profecion" Collapsed="true">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidad\Profecion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IngenieriaCivil.Entidad.TipoCita" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Entidad\TipoCita.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IngenieriaCivil.Entidad.TipoPago" Collapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidad\TipoPago.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
